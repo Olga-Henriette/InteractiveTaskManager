@@ -1,0 +1,17 @@
+# Dépendances Node
+/backend/node_modules
+/frontend/node_modules
+
+# Fichiers de build/cache
+/frontend/.next
+/frontend/out
+
+# Variables d'environnement
+.env
+/backend/.env
+/frontend/.env.local
+
+# Fichiers d'historique/log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
